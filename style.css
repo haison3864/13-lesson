@@ -1,0 +1,29 @@
+.tugma1 {
+    /* width: 150px; */
+    padding: 5px 30px;
+    font-size: 18px;
+    color: white;
+    font-weight: 500;
+    background-color: rgb(6, 140, 185);
+}
+.tugma2 {
+    /* width: 150px; */
+    padding: 5px 30px;
+    font-size: 18px;
+    color: white;
+    font-weight: 500;
+    background-color: rgb(231, 81, 17);
+}
+.mavzu {
+    color: rgb(4, 174, 157);
+
+}
+.words {
+    color: blueviolet;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.karta {
+    box-shadow: 10px 10px 10px rgb(64, 63, 63);
+    margin: 10px;
+}
